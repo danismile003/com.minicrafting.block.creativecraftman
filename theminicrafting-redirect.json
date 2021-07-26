@@ -1,5 +1,5 @@
 {
-  "link" : "com.loki.mini.craft.earth.master.joss",
-  "pack" : "com.loki.mini.craft.earth.master.joss",
-  "update" : "no"
+  "link" : "com.minicrafting.block.creativecraftman",
+  "pack" : "com.minicrafting.block.creativecraftman",
+  "update" : "yes"
 }
